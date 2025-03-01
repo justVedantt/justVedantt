@@ -9,6 +9,8 @@
 
 ## 🚀 Tech Stack  
 **Languages:** Java, JavaScript, C++, C, SQL, Kotlin
+
+
 **Frameworks & Tools:** Node.js, React, Firebase, Docker, Android Studio  
 **Cloud & DevOps:** AWS, Google Cloud, Linux  
 **Web & UI:** Tailwind CSS, HTML  
